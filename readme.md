@@ -79,10 +79,3 @@
 </p>
 
 <h1 align="center"></h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumudithasilva&show_icons=true" alt="kumudithasilva" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumudithasilva&show_icons=true" alt="kumudithasilva" /></p>
-
-
-
-
