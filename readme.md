@@ -45,37 +45,48 @@
   <img height="35" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/mui/mui-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" style="border-radius: 50%;">
   <img height="35" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21~bgwhite.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21~bgwhite.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="border-radius: 50%;">
   <img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21~bgwhite.svg" style="border-radius: 50%;">
   <img height="35" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21~bgwhite.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21~bgwhite.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://upload.vectorlogo.zone/logos/numpy/images/de18fd96-eca8-46f4-b260-6c56f4d02ca3.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21~bgwhite.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg" style="border-radius: 50%;">
+  <img height="35" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" style="border-radius: 50%;"> 
-  <img height="35" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21~bgwhite.svg" style="border-radius: 50%;"> 
 </p>
 
 <h1 align="center"></h1>
