@@ -86,11 +86,11 @@
   <img height="35" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="border-radius: 50%;"> 
   <img height="35" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-official.svg" style="border-radius: 50%;">
   <img height="35" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="border-radius: 50%;"> 
+  <img height="35" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZiuZAA0" style="border-radius: 50%;">
+  <img height="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" style="border-radius: 50%;">
   <img height="35" src="https://github.com/mlflow-automation.png" style="border-radius: 50%;">
   <img height="35" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" style="border-radius: 50%;">
   <img height="35" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" style="border-radius: 50%;">
-  <img height="35" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZiuZAA0" style="border-radius: 50%;">
-  <img height="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" style="border-radius: 50%;">
 
  
 </p>
