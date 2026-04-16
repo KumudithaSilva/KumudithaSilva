@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-28-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Colombo%2C%20Sri%20Lanka-0077b5" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Japanese%20%26%20Sinhala-brightgreen" />
-  <img src="https://img.shields.io/badge/Tech-Google%20Cloud-4285F4" />
-  <img src="https://img.shields.io/badge/Tech-Full--Stack-61DAFB" />
-  <img src="https://img.shields.io/badge/Tech-Docker-0db7ed" />
-  <img src="https://img.shields.io/badge/Tech-Kubernetes-326ce5" />
-  <img src="https://img.shields.io/badge/Tech-TensorFlow-FF6F00" />
-  <img src="https://img.shields.io/badge/Tech-Python-306998" />
-  <img src="https://img.shields.io/badge/AWS%20Certified-Yes-FF9900" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AI%20%7C%20ML%20Engineer&fontSize=40&fontColor=ffffff" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Tech-Python-306998" />
+  <img src="https://img.shields.io/badge/Tech-TensorFlow%20%26%20PyTorch-FF6F00" />
+  <img src="https://img.shields.io/badge/AI-LLMs%20%26%20GenAI-8E44AD" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%26%20AI%20Agents-6F42C1" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%26%20CI%2FCD-1F77B4" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%26%20Kubernetes-326ce5" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-FF9900" />
+  <img src="https://img.shields.io/badge/Tech-Full--Stack%20Development-61DAFB" />
+</p>
+
+
 
 <hr style="border: 0; border-top: 1px solid #ddd; height: 1px; margin: 8px 0;">
 
@@ -18,16 +23,16 @@
 
 💬 **About Me:**
 
-- 🛠️ I enjoy working on AI, ML, and data-driven projects that create meaningful impact to world.
+- 🛠️ I enjoy working on AI, ML, and data-driven projects that create real-world impact and drive innovation.
 - 💡 I have a strong background in software enginnering and deploying ML projects on Cloud platforms.
 - 🌍 I have worked on impactful projects across industries such as banking and telecommunications.
-- 🚀 I'm eager to develop high-quality, full-scale ML applications, constantly exploring ways to combine my software engineering, ML, and cloud skills in both personal and professional projects.
+- 🚀 I’m focused on building high-quality, full-scale ML applications by combining software engineering, machine learning, and cloud technologies in both personal and professional work.
 
 🌿 **My Vision:**
 
 - 🎯 I aim to create impactful AI and ML solutions that drive positive change across industries.
-- ⚡ I explore datasets, build models, share insights, and continuously advance my knowledge of the latest technologies in ML.
-- 🔬 I'm passionate about creating AI-driven solutions that reimagine food systems, making them smarter, more sustainable, and improving health across agriculture and communities.
+- ⚡ I explore datasets, build models, share insights, and continuously advance my knowledge of emerging technologies in AI and ML technologies.
+- 🔬 I’m passionate about leveraging these technologies to build scalable solutions that enhance efficiency and drive sustainable innovation across industries and communities.
 
 🤝 **Open for Collaboration:**
 
