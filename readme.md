@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AI%20%7C%20ML%20Engineer&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1a2980&height=200&section=header&text=AI%20%7C%20ML%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -15,28 +15,28 @@
   <img src="https://img.shields.io/badge/Tech-Full--Stack%20Development-61DAFB" />
 </p>
 
-
-
 <hr style="border: 0; border-top: 1px solid #ddd; height: 1px; margin: 8px 0;">
 
 👋 **Hi, I'm Kumuditha Silva.**
 
 💬 **About Me:**
 
-- 🛠️ I enjoy working on AI, ML, and data-driven projects that create real-world impact and drive innovation.
-- 💡 I have a strong background in software enginnering and deploying ML projects on Cloud platforms.
-- 🌍 I have worked on impactful projects across industries such as banking and telecommunications.
-- 🚀 I’m focused on building high-quality, full-scale ML applications by combining software engineering, machine learning, and cloud technologies in both personal and professional work.
+- 🧠 AI/ML Engineer focused on building production-grade intelligent systems that create real-world impact and drive innovation.
+- 💡 Experienced in software engineering, with a focus on deploying scalable machine learning systems on AWS & GCP.
+- 🌍 Delivered impactful solutions across industries including banking and telecommunications, solving real business problems with scalable architectures.
+- 🚀 Strong interest in machine learning systems design, including RAG pipelines, LLMs, and AI agents.
+  
 
 🌿 **My Vision:**
 
-- 🎯 I aim to create impactful AI and ML solutions that drive positive change across industries.
-- ⚡ I explore datasets, build models, share insights, and continuously advance my knowledge of emerging technologies in AI and ML technologies.
-- 🔬 I’m passionate about leveraging these technologies to build scalable solutions that enhance efficiency and drive sustainable innovation across industries and communities.
+- 🎯To build impactful AI systems that create meaningful and measurable change across industries and society.
+- ⚡ Focused on the full machine learning lifecycle, from data exploration and model development through evaluation, deployment, and system optimization.
+- 🔬 Passionate about scalable machine learning systems powered by modern ML pipelines, focused on building efficient, production-ready AI solutions.
+
 
 🤝 **Open for Collaboration:**
 
-- 📊 I'm open to collaborations on projects that combine my experience in full-stack software engineering, ML, and cloud solutions to create innovative and impactful solutions.
+- 📊 Open to collaborating on projects involving full-stack engineering, machine learning, and cloud technologies to build scalable and impactful solutions.
 
 📬 **Contact Me:**
 
