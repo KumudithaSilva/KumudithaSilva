@@ -29,7 +29,7 @@
 
 🌿 **My Vision:**
 
-- 🎯To build impactful AI systems that create meaningful and measurable change across industries and society.
+- 🎯 To build impactful AI systems that create meaningful and measurable change across industries and society.
 - ⚡ Focused on the full machine learning lifecycle, from data exploration and model development through evaluation, deployment, and system optimization.
 - 🔬 Passionate about scalable machine learning systems powered by modern ML pipelines, focused on building efficient, production-ready AI solutions.
 
