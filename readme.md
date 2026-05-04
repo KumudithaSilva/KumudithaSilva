@@ -21,22 +21,22 @@
 
 💬 **About Me:**
 
-- 🧠 AI/ML Engineer focused on building production-grade intelligent systems that create real-world impact and drive innovation.
-- 💡 Experienced in software engineering, with a focus on deploying scalable machine learning systems on AWS & GCP.
-- 🌍 Delivered impactful solutions across industries including banking and telecommunications, solving real business problems with scalable architectures.
-- 🚀 Strong interest in machine learning systems design, including RAG pipelines, LLMs, and AI agents.
+- AI/ML Engineer focused on building production-grade intelligent systems that create real-world impact and drive innovation.
+- Experienced in software engineering, with a focus on deploying scalable machine learning systems on AWS & GCP.
+- Delivered impactful solutions across industries including banking and telecommunications, solving real business problems with scalable architectures.
+- Strong interest in machine learning systems design, including RAG pipelines, LLMs, and AI agents.
   
 
 🌿 **My Vision:**
 
-- 🎯 To build impactful AI systems that create meaningful and measurable change across industries and society.
-- ⚡ Focused on the full machine learning lifecycle, from data exploration and model development through evaluation, deployment, and system optimization.
-- 🔬 Passionate about scalable machine learning systems powered by modern ML pipelines, focused on building efficient, production-ready AI solutions.
+- To build impactful AI systems that create meaningful and measurable change across industries and society.
+- Focused on the full machine learning lifecycle, from data exploration and model development through evaluation, deployment, and system optimization.
+- Passionate about scalable machine learning systems powered by modern ML pipelines, focused on building efficient, production-ready AI solutions.
 
 
 🤝 **Open for Collaboration:**
 
-- 📊 Open to collaborating on projects involving full-stack engineering, machine learning, and cloud technologies to build scalable and impactful solutions.
+- Open to collaborating on projects involving full-stack engineering, machine learning, and cloud technologies to build scalable and impactful solutions.
 
 📬 **Contact Me:**
 
